@@ -1,0 +1,152 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "technicians": "Technicians",
+    "emergency": "Emergency",
+    "about": "About",
+    "admin": "Admin",
+    "login": "Login"
+  },
+  "hero": {
+    "badge": "Tamil Nadu's #1 Emergency Repair Platform",
+    "title": "Fix It Fast.",
+    "title2": "Fix It Right.",
+    "subtitle": "Electrical failures, plumbing leaks, appliance breakdowns — get verified technicians at your door within 60 minutes.",
+    "cta": "Get Help Now",
+    "cta2": "Browse Technicians",
+    "stat1": "Districts",
+    "stat2": "Verified Pros",
+    "stat3": "Problems Solved",
+    "stat4": "Avg Response"
+  },
+  "categories": {
+    "title": "What's the Emergency?",
+    "subtitle": "Select your problem category for instant diagnosis, danger assessment, and nearest technician.",
+    "electrical": "Electrical",
+    "plumbing": "Plumbing",
+    "appliance": "Appliance Repair",
+    "carpentry": "Carpentry",
+    "cctv": "CCTV / Internet",
+    "painting": "Painting & Wall",
+    "pest": "Pest Control",
+    "electrical_desc": "Short circuits, power failures, wiring issues",
+    "plumbing_desc": "Leaks, blockages, pipe bursts, drainage",
+    "appliance_desc": "AC, fridge, washing machine, microwave",
+    "carpentry_desc": "Doors, windows, furniture, cabinets",
+    "cctv_desc": "Camera setup, WiFi, router, networking",
+    "painting_desc": "Wall cracks, damp patches, repainting",
+    "pest_desc": "Cockroaches, rats, termites, bed bugs"
+  },
+  "diagnosis": {
+    "title": "Smart Problem Diagnosis",
+    "subtitle": "Describe your issue — our system identifies danger level, provides safety instructions, and connects you with the right expert.",
+    "step1": "Select District",
+    "step2": "Choose Category",
+    "step3": "Describe Problem",
+    "diagnose": "Diagnose Problem",
+    "danger": "Danger Level",
+    "safety": "Immediate Safety Steps",
+    "cost": "Estimated Cost",
+    "find": "Find Technicians",
+    "district_label": "Your District",
+    "category_label": "Problem Category",
+    "problem_label": "Exact Problem",
+    "select_district": "Select your district",
+    "select_category": "Select category",
+    "select_problem": "Select the problem",
+    "to": "to"
+  },
+  "technicians": {
+    "title": "Verified Technicians Near You",
+    "subtitle": "All technicians are background-verified, licensed, and rated by real customers.",
+    "verified": "Verified",
+    "available": "Available",
+    "unavailable": "Unavailable",
+    "call": "Call Now",
+    "email": "Email",
+    "rating": "Rating",
+    "reviews": "reviews",
+    "distance": "km away",
+    "search": "Search technicians by name or district...",
+    "filter_district": "Filter by District",
+    "filter_category": "Filter by Category",
+    "all_districts": "All Districts",
+    "all_categories": "All Categories",
+    "no_results": "No technicians found. Try a different filter.",
+    "loading": "Loading technicians..."
+  },
+  "emergency": {
+    "title": "EMERGENCY ALERT",
+    "subtitle": "Danger Detected! Follow these steps immediately.",
+    "call_now": "Call Emergency Technician",
+    "close": "I'm Safe Now",
+    "sos": "SOS",
+    "help": "Emergency Help"
+  },
+  "reviews": {
+    "title": "What Our Customers Say",
+    "subtitle": "Trusted by thousands of families across Tamil Nadu."
+  },
+  "safety": {
+    "title": "Safety Tips",
+    "subtitle": "Quick safety guides for common emergencies."
+  },
+  "footer": {
+    "tagline": "Tamil Nadu's trusted emergency repair platform. Available 24/7.",
+    "services": "Services",
+    "company": "Company",
+    "contact": "Contact",
+    "about": "About Us",
+    "careers": "Careers",
+    "blog": "Blog",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "rights": "All rights reserved."
+  },
+  "admin": {
+    "title": "Admin Panel",
+    "technicians": "Technicians",
+    "categories": "Categories",
+    "districts": "Districts",
+    "reviews": "Reviews",
+    "add": "Add New",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm_delete": "Are you sure you want to delete this?",
+    "success_add": "Added successfully!",
+    "success_update": "Updated successfully!",
+    "success_delete": "Deleted successfully!"
+  },
+  "auth": {
+    "login": "Admin Login",
+    "username": "Username",
+    "password": "Password",
+    "sign_in": "Sign In",
+    "logout": "Logout",
+    "error": "Invalid credentials. Please try again."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong. Please try again.",
+    "retry": "Retry",
+    "back": "Back",
+    "next": "Next",
+    "close": "Close",
+    "search": "Search",
+    "filter": "Filter",
+    "clear": "Clear",
+    "submit": "Submit",
+    "required": "This field is required",
+    "sos_title": "Emergency SOS",
+    "sos_desc": "Tap to get immediate emergency help"
+  },
+  "danger": {
+    "critical": "CRITICAL",
+    "high": "HIGH",
+    "medium": "MEDIUM",
+    "low": "LOW"
+  }
+}
