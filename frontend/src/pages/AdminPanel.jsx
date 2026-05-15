@@ -36,7 +36,7 @@ const AdminPanel = () => {
   useEffect(() => {
     if (!isAdmin) { navigate('/admin/login'); return; }
     loadTechnicians();
-  }, [isAdmin]);
+  }, [isAdmin, navigate]);
 
   const loadTechnicians = async () => {
     try {
