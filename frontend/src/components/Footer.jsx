@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Container, Grid, Typography, Link, Divider } from '@mui/material';
+import { Box, Container, Grid, Typography, Divider } from '@mui/material';
 import FlashOnIcon from '@mui/icons-material/FlashOn';
 import { useLanguage } from '../context/LanguageContext';
 import { CATEGORIES } from '../data/staticData';

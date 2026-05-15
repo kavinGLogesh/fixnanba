@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import {
   Box, Container, Typography, Button, Grid, Chip,
   MenuItem, Select, FormControl, InputLabel,
-  List, ListItem, ListItemIcon, ListItemText, Paper, Skeleton
+  List, ListItem, ListItemIcon, ListItemText, Paper
 } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
 import BoltIcon from '@mui/icons-material/Bolt';

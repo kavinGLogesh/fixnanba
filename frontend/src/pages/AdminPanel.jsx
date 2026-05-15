@@ -3,7 +3,7 @@ import {
   Box, Container, Typography, Grid, Card, CardContent, Button, TextField,
   Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper,
   Dialog, DialogTitle, DialogContent, DialogActions, IconButton, Chip,
-  Tab, Tabs, Alert, Snackbar, Switch, FormControlLabel, MenuItem, Select, FormControl, InputLabel, Avatar
+   Alert, Snackbar, Switch, FormControlLabel, MenuItem, Select, FormControl, InputLabel, Avatar
 } from '@mui/material';
 import EditIcon from '@mui/icons-material/Edit';
 import DeleteIcon from '@mui/icons-material/Delete';
@@ -25,7 +25,7 @@ const AdminPanel = () => {
   const { t } = useLanguage();
   const { isAdmin, logout } = useAuth();
   const navigate = useNavigate();
-  const [tab, setTab] = useState(0);
+  
   const [technicians, setTechnicians] = useState(SAMPLE_TECHNICIANS);
   const [dialogOpen, setDialogOpen] = useState(false);
   const [deleteDialog, setDeleteDialog] = useState({ open: false, id: null });

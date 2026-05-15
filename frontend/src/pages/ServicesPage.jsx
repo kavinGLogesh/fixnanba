@@ -4,7 +4,6 @@ import { useNavigate, useSearchParams } from 'react-router-dom';
 import CheckCircleIcon from '@mui/icons-material/CheckCircle';
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 import { useLanguage } from '../context/LanguageContext';
-import CategoryCard from '../components/CategoryCard';
 import DangerLevelBadge from '../components/DangerLevelBadge';
 import EmergencyPopup from '../components/EmergencyPopup';
 import { CATEGORIES, DISTRICTS, DIAGNOSIS_DATA, SAMPLE_TECHNICIANS } from '../data/staticData';
